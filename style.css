@@ -1,0 +1,38 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px gray;
+}
+.heading_div1{
+    float:none;
+    background-color:orange;
+    padding:10px;
+    border-radius: 50px;
+    color:black;
+    box-shadow:5px 5px 5px gray;
+}
+.heading_div2{
+    font-size:25px;
+}
+.result_para_tag{
+    box-shadow:5px 5px 5px gray;
+    font-size:20px;
+}
+.footer{
+    position:fixed;
+    color:cadetblue;
+    background-color:blanchedalmond;
+     width:100%;
+     line-height:3;
+     bottom:0;
+     text-align:center;
+}
+canvas{
+    border:5px dashed rgb(192, 255, 247) ;
+    border-radius:50px;
+    box-shadow:15px 15px 15px gray;
+    margin-top:150px;
+    margin-bottom:100px;
+    margin-right:50%;
+}
